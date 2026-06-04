@@ -59,9 +59,15 @@ Vibration Sensor → ESP32 → FFT Analysis → Damage Detection → WiFi Alert
 
 ESP32 · C++ · Arduino IDE · FFT · TinyML · Edge Impulse · Python
 
+
 ---
 
 ## Author
 
 **Electrical Engineering Student — HTW Berlin**  
 3rd Semester | Started: June 2026
+
+
+| Spalte 1 | Spalte 2 |
+|----------|---------|
+| Inhalt   | Inhalt  |
