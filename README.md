@@ -67,7 +67,3 @@ ESP32 · C++ · Arduino IDE · FFT · TinyML · Edge Impulse · Python
 **Electrical Engineering Student — HTW Berlin**  
 3rd Semester | Started: June 2026
 
-
-| Spalte 1 | Spalte 2 |
-|----------|---------|
-| Inhalt   | Inhalt  |
