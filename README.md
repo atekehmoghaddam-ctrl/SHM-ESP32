@@ -3,7 +3,7 @@
 A real-time embedded system that detects structural damage 
 by measuring and analyzing vibration patterns — no cloud required.
 
-**Bachelor Thesis Project | HTW Berlin | Electrical Engineering**
+**Self-initiated Project | HTW Berlin | Electrical Engineering**
 
 ---
 
