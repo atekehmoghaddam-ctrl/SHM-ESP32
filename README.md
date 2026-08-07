@@ -30,7 +30,7 @@ Vibration Sensor → ESP32 → FFT Analysis → Damage Detection → WiFi Alert
 | 3 | Hardware setup + first vibration measurement | 🔄 In Progress |
 | 4 | FFT signal analysis + damage classification | 📅 Planned |
 | 5 | Automation + TinyML data collection | 📅 Planned |
-| 6 | Bachelor Thesis — complete system | 🎯 Target |
+| 6 | complete system | 🎯 Target |
 
 ---
 
@@ -39,8 +39,8 @@ Vibration Sensor → ESP32 → FFT Analysis → Damage Detection → WiFi Alert
 | Component | Purpose | Status |
 |-----------|---------|--------|
 | ESP32 Development Board | Main microcontroller | ✅ Available |
-| ADXL345 Accelerometer | Vibration measurement | 🔄 Ordered |
-| Metal plate | Test object | 🔄 Ordered |
+| ADXL345 Accelerometer | Vibration measurement | ✅ Available |
+| Metal plate | Test object | ✅ Available |
 
 ---
 
