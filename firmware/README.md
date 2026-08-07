@@ -1,2 +1,2 @@
 # Firmware
-ESP32 Code nach Semester geordnet
+ESP32 embedded source code for real-time vibration acquisition and analysis
