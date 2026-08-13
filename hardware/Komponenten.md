@@ -1,3 +1,4 @@
+<img width="350" height="366" alt="realversuchsaufbau" src="https://github.com/user-attachments/assets/53f58e1e-4939-4e5c-9a1b-b86f4ef6a3c6" />
 # Komponenten 
 
 
@@ -20,6 +21,14 @@
 
 
 # Schaltplan 
+
+
+
+
+<img width="350" height="366" alt="realversuchsaufbau" src="https://github.com/user-attachments/assets/837a5bec-24da-4966-864c-a8aea2a7b6df" />
+
+<img width="318" height="300" alt="versuchsaufbau" src="https://github.com/user-attachments/assets/84ab9fe7-62a5-4fe6-b98c-8ca5163e81f6" />
+
 
  
 ![Wokwi Circuit ](versuchsaufbau.jpg)
