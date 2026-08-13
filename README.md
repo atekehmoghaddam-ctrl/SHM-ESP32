@@ -56,7 +56,7 @@ Vibrationssensor → ESP32 → FFT-Analyse → Schadenserkennung → WiFi-Alarm
 
 **Versuch 1 (Semester 3):** Erfolgreiche Erfassung und Visualisierung von Beschleunigungsdaten eines Aluminiumrohrs in drei Raumachsen mittels ADXL345 und ESP32 über I2C.
 
-Vollständiges Protokoll: [`docs/versuch1_protokoll.md`](docs/versuch1_protokoll.md)
+Vollständiges Protokoll: [`docs/Versuch1-Protokoll.pdf`](docs/versuch1_protokoll.pdf)
 
 ---
 
