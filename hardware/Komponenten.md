@@ -15,6 +15,10 @@
 
 
 
+
+
+
+
 # Schaltplan 
 
  
@@ -27,6 +31,12 @@ Hinweis: MPU-6050 als Darstellungsersatz für ADXL345 verwendet, da ADXL345 im S
 ![Realer Versuchsaufbau](realversuchsaufbau.jpg)
 Abb. 2: Realer Versuchsaufbau — ESP32 mit ADXL345 (GY-291Modul) auf Breadboard Verschaltung:
 VCC→ 3.3V | GND → GND | SDA → GPIO 21 | SCL → GPIO 22  
+
+
+
+
+
+
 
 
 
