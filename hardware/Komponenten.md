@@ -5,7 +5,7 @@
 |        Komponente               |             Spezifikation             |
 |---------------------------------|---------------------------------------|
 |     Mikrocontroller             |        ESP32 Dev Module, 3,3V         |
-|      Beschleunigungssensor      |.       ADXL345, ±2g, 13-Bit, I2C      |
+|      Beschleunigungssensor      |        ADXL345, ±2g, 13-Bit, I2C      |
 |     Testkörper                  |        Aluminiumrohr                  |
 |     Entwicklungsumgebung        |        Arduino IDE                    |
 |     Breadboard                  |        830 Punkte                     |
