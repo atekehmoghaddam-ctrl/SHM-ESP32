@@ -1,0 +1,12 @@
+## Messdaten — Versuch 1
+
+Rohdaten aus den Impulsmessungen (Klopftest) sowie 
+Referenzwerte im Ruhezustand.
+Messwerte während der Impuls [m/s^2]:
+
+|    Impuls  |     x     |   y    |    z    |
+|      1     |  -0,78    |  0,75  |   3,49  |
+|      2     |  1,73     |  4,82  |  -16,70 |
+|      3     |  0,39     |  2,47  |   -6,83 |
+
+Ruhezustand(Refrenzwert): X :0,39 | y: 0,94 | Z: -10,36
