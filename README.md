@@ -71,5 +71,5 @@ ESP32 · C++ · Arduino IDE · I2C · Python
 ## Autorin
 
 **Atekeh Motamedimoghaddam**
-**Studentin Elektrotechnik — HTW Berlin**
+Studentin Elektrotechnik — HTW Berlin
 3. Semester | Projektbeginn: Juni 2026
