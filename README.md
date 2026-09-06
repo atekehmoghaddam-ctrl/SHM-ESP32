@@ -64,7 +64,7 @@ Vollständiges Protokoll:  [`docs/Versuch1-Protokoll.pdf`](docs/Versuch1-Protoko
 
 ## Verwendete Technologien
 
-ESP32 · C++ · Arduino IDE · I2C · FFT · TinyML · Edge Impulse · Python
+ESP32 · C++ · Arduino IDE · I2C · Python
 
 ---
 
